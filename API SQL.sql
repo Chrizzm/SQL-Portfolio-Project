@@ -1,7 +1,7 @@
 
 ---------------------------------------------------------------------------------------------------
 
-#Web Scrape: Descriptive Analytics Query
+#API: Descriptive Analytics Query
 
 #Business Question: 
 #What are the peak and off-peak months for SpaceX launches?
@@ -32,7 +32,7 @@ ORDER BY
 
 ---------------------------------------------------------------------------------------------------
 
-#Web Scrape: Descriptive Analytics Query
+#API: Descriptive Analytics Query
 
 #Business Question: 
 #Which months have the highest frequency of launches for a specific mission?
