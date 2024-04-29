@@ -26,9 +26,10 @@ This project simulates the analytical tasks expected from a Starlink Business An
 - Web scrape data includes launch dates, mission names, and outcomes.
 
 ## Notebooks
-- [API Data Extraction and Loading (API_ETL.ipynb)]([URL-to-this-notebook](https://colab.research.google.com/drive/14YdN7ZjGyLyI5IEVG8toguFH9BRWUBB2?usp=sharing)): Notebook for extracting satellite data using an API.
-- [Web Scrape Data Extraction and Loading (Web_Scrape_ETL.ipynb)]([URL-to-this-notebook](https://colab.research.google.com/drive/1oCNXE8whCUrHl03vV8v4ivyGyOlVpjZr?usp=sharing)): Notebook for scraping launch data from the SpaceX website.
-
+- [API Data Extraction and Loading (API_ETL.ipynb)]((https://colab.research.google.com/drive/14YdN7ZjGyLyI5IEVG8toguFH9BRWUBB2?usp=sharing)): Notebook for extracting satellite data using an API.
+- [Web Scrape Data Extraction and Loading (Web_Scrape_ETL.ipynb)]((https://colab.research.google.com/drive/1oCNXE8whCUrHl03vV8v4ivyGyOlVpjZr?usp=sharing)): Notebook for scraping launch data from the SpaceX website.
+- [API SQL Analysis (API_SQL_Analysis.ipynb)](https://colab.research.google.com/drive/1CXu7p8P16y0urJ84lyr9XeTHr1UnRj8w?usp=sharing): Notebook for conducting SQL analysis on satellite data retrieved via the API. It includes descriptive and diagnostic queries to understand launch frequencies and identify trends in satellite data.
+- [Web Scrape SQL Analysis (Web_Scrape_SQL_Analysis.ipynb)]([[URL-to-this-notebook](https://colab.research.google.com/drive/1oCNXE8whCUrHl03vV8v4ivyGyOlVpjZr?usp=sharing)](https://colab.research.google.com/drive/1f-m8G9F4r-wHZTDhSnMxDVCyXFdjIfIv?usp=sharing)): Notebook for performing SQL analysis on data scraped from the SpaceX website. This includes queries to analyze the number of launches over months and assess the operational trends based on launch data.
 ## Future Improvements
 - Integrate more diverse data sources to enrich the analysis.
 - Implement machine learning to predict future satellite positions and potential disruptions.
